@@ -1,0 +1,87 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.toyflix.webview"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:3:5-67
+11-->/Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:3:22-64
+12
+13    <permission
+13-->[androidx.core:core:1.12.0] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/7dce25912afb0a53b10416a5fd23e777/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+14        android:name="com.toyflix.webview.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.12.0] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/7dce25912afb0a53b10416a5fd23e777/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.12.0] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/7dce25912afb0a53b10416a5fd23e777/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.toyflix.webview.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.12.0] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/7dce25912afb0a53b10416a5fd23e777/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.12.0] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/7dce25912afb0a53b10416a5fd23e777/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->/Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:4:5-20:19
+20        android:allowBackup="true"
+20-->/Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:5:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.12.0] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/7dce25912afb0a53b10416a5fd23e777/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:icon="@android:drawable/sym_def_app_icon"
+24-->/Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:7:9-58
+25        android:label="TOYFLIX"
+25-->/Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:8:9-32
+26        android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+26-->/Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:9:9-65
+27        android:usesCleartextTraffic="true" >
+27-->/Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:6:9-44
+28        <activity
+28-->/Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:10:9-19:20
+29            android:name="com.toyflix.webview.MainActivity"
+29-->/Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:11:13-41
+30            android:configChanges="orientation|screenSize"
+30-->/Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:13:13-59
+31            android:exported="true"
+31-->/Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:12:13-36
+32            android:windowSoftInputMode="adjustResize" >
+32-->/Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:14:13-55
+33            <intent-filter>
+33-->/Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:15:13-18:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->/Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:16:17-69
+34-->/Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:16:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->/Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:17:17-77
+36-->/Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:17:27-74
+37            </intent-filter>
+38        </activity>
+39
+40        <provider
+40-->[androidx.emoji2:emoji2:1.2.0] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/2f413fcb435701a4113bb3bb68e87071/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+41            android:name="androidx.startup.InitializationProvider"
+41-->[androidx.emoji2:emoji2:1.2.0] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/2f413fcb435701a4113bb3bb68e87071/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+42            android:authorities="com.toyflix.webview.androidx-startup"
+42-->[androidx.emoji2:emoji2:1.2.0] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/2f413fcb435701a4113bb3bb68e87071/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+43            android:exported="false" >
+43-->[androidx.emoji2:emoji2:1.2.0] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/2f413fcb435701a4113bb3bb68e87071/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+44            <meta-data
+44-->[androidx.emoji2:emoji2:1.2.0] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/2f413fcb435701a4113bb3bb68e87071/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+45                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+45-->[androidx.emoji2:emoji2:1.2.0] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/2f413fcb435701a4113bb3bb68e87071/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+46                android:value="androidx.startup" />
+46-->[androidx.emoji2:emoji2:1.2.0] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/2f413fcb435701a4113bb3bb68e87071/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+47            <meta-data
+47-->[androidx.lifecycle:lifecycle-process:2.4.1] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/ec4029e583553b23047d752a9d1dd132/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+48                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+48-->[androidx.lifecycle:lifecycle-process:2.4.1] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/ec4029e583553b23047d752a9d1dd132/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+49                android:value="androidx.startup" />
+49-->[androidx.lifecycle:lifecycle-process:2.4.1] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/ec4029e583553b23047d752a9d1dd132/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+50        </provider>
+51    </application>
+52
+53</manifest>

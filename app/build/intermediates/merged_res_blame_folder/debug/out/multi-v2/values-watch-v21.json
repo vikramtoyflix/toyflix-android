@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.toyflix.webview.app-mergeDebugResources-2:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/a9b275b3e80a1631ed0dc64c4a3c6271/transformed/appcompat-1.6.1/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
