@@ -45,6 +45,9 @@ class MainActivity : AppCompatActivity() {
         }
 
         val webView = WebView(this).apply {
+            // Clear cache on every launch so stale JS/keys never get served
+            clearCache(true)
+            clearHistory()
             // Match iOS: no bounce (scrollView.bounces = false)
             overScrollMode = View.OVER_SCROLL_NEVER
             // Smoother scrolling like WKWebView
@@ -86,7 +89,7 @@ class MainActivity : AppCompatActivity() {
                 loadWithOverviewMode = true
                 useWideViewPort = true
                 setGeolocationEnabled(true)
-                cacheMode = WebSettings.LOAD_DEFAULT
+                cacheMode = WebSettings.LOAD_NO_CACHE
                 if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
                     mixedContentMode = WebSettings.MIXED_CONTENT_ALWAYS_ALLOW
                 }
