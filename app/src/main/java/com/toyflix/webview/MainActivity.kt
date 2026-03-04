@@ -97,8 +97,8 @@ class MainActivity : AppCompatActivity() {
                 displayZoomControls = false
                 blockNetworkImage = false
                 blockNetworkLoads = false
-                // Use a standard Chrome user agent so Supabase/CDN don't block requests
-                userAgentString = "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 TOYFLIX-APP/1.0"
+                // Use identical user agent to Chrome on Android so Supabase treats it as a normal browser
+                userAgentString = "Mozilla/5.0 (Linux; Android 10; Mobile) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
             }
 
             loadUrl("https://toyflix.in")
