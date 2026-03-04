@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:2:1-25:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/25d7ed0f2769940c444bd27ec3ed43ca/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/a9b275b3e80a1631ed0dc64c4a3c6271/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.fragment:fragment:1.3.6] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/dbcaf757fe68a7b477c518ebd26c4785/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
@@ -44,9 +44,17 @@ uses-permission#android.permission.INTERNET
 ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:3:5-67
 	android:name
 		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:3:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:4:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:5:22-78
 application
-ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:4:5-20:19
-INJECTED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:4:5-20:19
+ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:6:5-24:19
+INJECTED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:6:5-24:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/2f413fcb435701a4113bb3bb68e87071/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.emoji2:emoji2:1.2.0] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/2f413fcb435701a4113bb3bb68e87071/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
 MERGED from [androidx.core:core:1.12.0] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/7dce25912afb0a53b10416a5fd23e777/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
@@ -62,35 +70,39 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /private/var/folders/x3/10v
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.12.0] /private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/2417976e35673d628926626ccfde0314/gradle/caches/8.8/transforms/7dce25912afb0a53b10416a5fd23e777/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
 	android:label
-		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:8:9-32
+		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:11:9-36
+	android:hardwareAccelerated
+		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:8:9-43
 	android:icon
-		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:7:9-58
+		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:10:9-58
 	android:allowBackup
-		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:5:9-35
+		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:9:9-65
+		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:12:9-65
 	android:usesCleartextTraffic
-		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:6:9-44
+		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:9:9-44
 activity#com.toyflix.webview.MainActivity
-ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:10:9-19:20
+ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:13:9-23:20
+	android:screenOrientation
+		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:16:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:14:13-55
+		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:18:13-55
 	android:exported
-		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:12:13-36
+		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:15:13-36
 	android:configChanges
-		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:13:13-59
+		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:17:13-59
 	android:name
-		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:11:13-41
+		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:14:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:15:13-18:29
+ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:19:13-22:29
 action#android.intent.action.MAIN
-ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:17:17-77
+ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:17:27-74
+		ADDED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml:21:27-74
 uses-sdk
 INJECTED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/vikrama.m/Documents/toyflix-webview/app/src/main/AndroidManifest.xml

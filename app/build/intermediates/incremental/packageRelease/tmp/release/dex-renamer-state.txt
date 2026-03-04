@@ -1,0 +1,4 @@
+#Wed Mar 04 12:55:42 IST 2026
+base.0=/Users/vikrama.m/Documents/toyflix-webview/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

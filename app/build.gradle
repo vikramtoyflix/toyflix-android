@@ -10,11 +10,20 @@ android {
         applicationId "com.toyflix.webview"
         minSdk 24
         targetSdk 34
-        versionCode 1
-        versionName "1.0"
+        versionCode 2
+        versionName "1.1"
+    }
+    signingConfigs {
+        release {
+            storeFile file('/Users/vikrama.m/Documents/toy-joy-box-club-main/android/app/upload-keystore.jks')
+            storePassword 'toyflix123'
+            keyAlias 'upload'
+            keyPassword 'toyflix123'
+        }
     }
     buildTypes {
         release {
+            signingConfig signingConfigs.release
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
