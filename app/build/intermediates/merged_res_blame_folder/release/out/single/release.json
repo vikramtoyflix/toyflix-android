@@ -1,110 +1,110 @@
 [
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-hdpi_ic_launcher_background.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-hdpi/ic_launcher_background.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-xxxhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-mdpi_ic_launcher_background.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-mdpi/ic_launcher_background.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-hdpi/ic_launcher_background.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-xhdpi_ic_launcher_background.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-xhdpi/ic_launcher_background.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-mdpi/ic_launcher_background.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-ldpi_ic_launcher_foreground.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-ldpi/ic_launcher_foreground.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-xhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/drawable_splash.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/drawable/splash.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-xhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-xxxhdpi/ic_launcher_background.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-ldpi_ic_launcher_round.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-ldpi/ic_launcher_round.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-ldpi_ic_launcher.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-ldpi/ic_launcher.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.toyflix.webview.app-main-5:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-ldpi_ic_launcher.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-ldpi/ic_launcher.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-xhdpi/ic_launcher_foreground.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-mdpi/ic_launcher_foreground.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-xxhdpi/ic_launcher_background.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-ldpi_ic_launcher_foreground.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-ldpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-xxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-hdpi/ic_launcher_foreground.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-ldpi_ic_launcher_background.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-ldpi/ic_launcher_background.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.toyflix.webview.app-main-5:/drawable/ic_launcher_background.xml"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-mdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-mdpi/ic_launcher.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/drawable_splash.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/drawable/splash.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-ldpi_ic_launcher_background.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-ldpi/ic_launcher_background.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/drawable-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-hdpi/ic_launcher.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-xxxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-xxhdpi/ic_launcher_foreground.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_background.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-xxhdpi/ic_launcher_background.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "com.toyflix.webview.app-merged_res-4:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.toyflix.webview.app-main-5:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "com.bommalu.toyrentalapp-merged_res-4:/mipmap-ldpi_ic_launcher_round.png.flat",
+        "source": "com.bommalu.toyrentalapp-main-5:/mipmap-ldpi/ic_launcher_round.png"
     }
 ]

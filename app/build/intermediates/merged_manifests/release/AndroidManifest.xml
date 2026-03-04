@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.toyflix.webview"
-    android:versionCode="2"
-    android:versionName="1.1" >
+    package="com.bommalu.toyrentalapp"
+    android:versionCode="108"
+    android:versionName="1.2" >
 
     <uses-sdk
         android:minSdkVersion="24"
@@ -13,10 +13,10 @@
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
     <permission
-        android:name="com.toyflix.webview.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="com.bommalu.toyrentalapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.toyflix.webview.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="com.bommalu.toyrentalapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
         android:allowBackup="true"
@@ -29,7 +29,7 @@
         android:theme="@style/Theme.AppCompat.Light.NoActionBar"
         android:usesCleartextTraffic="true" >
         <activity
-            android:name="com.toyflix.webview.MainActivity"
+            android:name="com.bommalu.toyrentalapp.MainActivity"
             android:configChanges="orientation|screenSize"
             android:exported="true"
             android:screenOrientation="portrait"
@@ -43,7 +43,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.toyflix.webview.androidx-startup"
+            android:authorities="com.bommalu.toyrentalapp.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"

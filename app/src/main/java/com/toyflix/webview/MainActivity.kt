@@ -1,4 +1,4 @@
-package com.toyflix.webview
+package com.bommalu.toyrentalapp
 
 import android.annotation.SuppressLint
 import android.graphics.Color

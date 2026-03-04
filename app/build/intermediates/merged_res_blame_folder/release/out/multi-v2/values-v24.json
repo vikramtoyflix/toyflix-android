@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.toyflix.webview.app-mergeReleaseResources-2:/values-v24/values-v24.xml",
+            "outputFile": "com.bommalu.toyrentalapp-mergeReleaseResources-2:/values-v24/values-v24.xml",
             "map": [
                 {
                     "source": "/private/var/folders/x3/10v05sx96cqcsbmx7lw89yqh0000gn/T/cursor-sandbox-cache/c120a25eed35265154f272d234df27e8/gradle/caches/8.8/transforms/a9b275b3e80a1631ed0dc64c4a3c6271/transformed/appcompat-1.6.1/res/values-v24/values-v24.xml",

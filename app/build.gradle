@@ -4,14 +4,14 @@ plugins {
 }
 
 android {
-    namespace "com.toyflix.webview"
+    namespace "com.bommalu.toyrentalapp"
     compileSdk 34
     defaultConfig {
-        applicationId "com.toyflix.webview"
+        applicationId "com.bommalu.toyrentalapp"
         minSdk 24
         targetSdk 34
-        versionCode 2
-        versionName "1.1"
+        versionCode 108
+        versionName "1.2"
     }
     signingConfigs {
         release {

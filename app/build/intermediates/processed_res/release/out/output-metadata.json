@@ -4,15 +4,15 @@
     "type": "PROCESSED_RES",
     "kind": "Directory"
   },
-  "applicationId": "com.toyflix.webview",
+  "applicationId": "com.bommalu.toyrentalapp",
   "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 2,
-      "versionName": "1.1",
+      "versionCode": 108,
+      "versionName": "1.2",
       "outputFile": "resources-release.ap_"
     }
   ],
